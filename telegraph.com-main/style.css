@@ -1,0 +1,12 @@
+.navbar {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FF0043;
+}
+
+main {
+    margin-top: 80px;
+}
